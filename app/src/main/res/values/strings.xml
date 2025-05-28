@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Prayer Times App</string>
+    <string name="qibla_button_text">Kıble</string>
+    <string name="settings_button_text">Ayarlar</string>
+    <string name="place_search_text">Eklemek istediğiniz şehir veya köy adını girin.</string>
+    <string name="title_activity_qibla_compass">QiblaCompassActivity</string>
+</resources>
